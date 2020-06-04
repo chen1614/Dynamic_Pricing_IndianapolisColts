@@ -1,0 +1,73 @@
+,index,Season,Opponent,Team,VisitingTeam,Conc,OppWin,OppLSWin,ColtsWin,ColtsLSWin,RoadAttendance,FacebookFans,Distance,Home Opener,Temp at Kick,Rain/Snow,Colts Out of Contention,LastVisitYears,OppScoredLY,OppDefGivenLY,OppPlayoff(Prev Bin),Top25Jersey(Ordinal),OffMVP(Interval),DefMVP(Interval),OddsFeb,Division,GAindyL10
+1,0,2012,Tennessee,Titans,Tennessee Titans,2012Tennessee Titans,0.333,0.563,0.667,0.125,94.1,942098,289,0,54,1,0,1,325,317,0,1,0,0,5000,1,5
+2,1,2012,Houston,Texans,Houston Texans,2012Houston Texans,0.846,0.625,0.625,0.125,88.7,2205376,1014,0,28,0,0,1,381,278,1,0,0,0,1200,1,7
+3,2,2012,Jacksonville,Jaguars,Jacksonville Jaguars,2012Jacksonville Jaguars,0.125,0.313,0.5,0.125,96.8,625830,878,0,63,0,0,1,243,329,0,0,0,0,10000,1,5
+4,3,2012,Minnesota,Vikings,Minnesota Vikings,2012Minnesota Vikings,1,0.188,0,0.125,93.4,2160261,594,1,72,0,0,8,340,449,0,2,0,21,8000,0,6
+5,4,2012,Green Bay,Packers,Green Bay Packers,2012Green Bay Packers,0.5,0.938,0.333,0.125,98.8,5300984,398,0,50,0,0,8,560,359,1,2,48,1,600,0,22
+6,5,2012,Cleveland,Browns,Cleveland Browns,2012Cleveland Browns,0.167,0.25,0.4,0.125,94.7,1256162,317,0,70,0,0,1,218,307,0,1,0,0,10000,0,12
+7,6,2012,Miami,Dolphins,Miami Dolphins,2012Miami Dolphins,0.571,0.375,0.571,0.125,94.9,2277308,1195,0,45,0,0,6,329,313,0,0,0,0,4000,0,7
+8,7,2012,Buffalo,Bills,Buffalo Bills,2012Buffalo Bills,0.4,0.375,0.6,0.125,90,892337,500,0,45,0,0,6,372,434,0,0,0,0,8000,0,5
+9,8,2013,Tennessee,Titans,Tennessee Titans,2013Tennessee Titans,0.455,0.375,0.636,0.688,92.8,942098,289,0,52,0,0,1,330,471,0,0,0,0,10000,1,5
+10,9,2013,Houston,Texans,Houston Texans,2013Houston Texans,0.154,0.75,0.615,0.688,99.6,2205376,1014,0,21,0,0,1,416,331,1,0,0,49,1200,1,7
+11,10,2013,Jacksonville,Jaguars,Jacksonville Jaguars,2013Jacksonville Jaguars,0.267,0.125,0.667,0.688,89,625830,878,0,45,0,0,1,255,444,0,0,0,0,15000,1,5
+12,11,2013,Oakland,Raiders,Oakland Raiders,2013Oakland Raiders,0,0.25,0,0.688,93.4,3399562,2266,1,88,0,0,9,290,443,0,1,0,0,15000,0,8
+13,12,2013,Seattle,Seahawks,Seattle Seahawks,2013Seattle Seahawks,1,0.688,0.75,0.688,91.3,3925846,2250,0,59,0,0,4,412,245,1,1,0,0,1200,0,10
+14,13,2013,Denver,Broncos,Denver Broncos,2013Denver Broncos,1,0.813,0.667,0.688,97,4368268,1085,0,63,0,0,4,481,289,1,2,19.5,1,800,0,7
+15,14,2013,St. Louis,Rams,St.Louis Rams,2013St.Louis Rams,0.333,0.438,0.75,0.688,94.3,864497,243,0,48,0,0,8,299,348,0,0,0,0,6600,0,6
+16,15,2013,Miami,Dolphins,Miami Dolphins,2013Miami Dolphins,1,0.438,1,0.688,97.9,2277308,1195,0,75,0,0,1,288,317,0,0,0,0,6600,0,7
+17,16,2014,Philadelphia,Eagles,Philadelphia Eagles,2014Philadelphia Eagles,1,0.625,0,0.688,98.6,3259642,643,1,66,0,0,8,442,382,1,1,0,0,3000,0,10
+18,17,2014,Tennessee,Titans,Tennessee Titans,2014Tennessee Titans,0.333,0.438,0.333,0.688,93.9,942098,289,0,81,0,0,1,362,381,0,0,0,0,6000,1,5
+19,18,2014,Baltimore,Ravens,Baltimore Ravens,2014Baltimore Ravens,0.75,0.5,0.5,0.688,96.9,2314857,578,0,57,0,0,6,320,352,0,0,0,0,3000,0,7
+20,19,2014,Cincinnati,Bengals,Cincinnati Bengals,2014Cincinnati Bengals,0.6,0.688,0.667,0.688,89.3,1178447,112,0,55,0,0,4,430,305,1,0,0,0,2000,0,11
+21,20,2014,New England,Patriots,New England Patriots,2014New England Patriots,0.778,0.75,0.667,0.688,97.8,7078550,937,0,36,0,0,5,444,338,1,1,1,0,700,0,25
+22,21,2014,Jacksonville,Jaguars,Jacksonville Jaguars,2014Jacksonville Jaguars,0.1,0.25,0.6,0.688,95.8,625830,878,0,52,1,0,1,247,449,0,0,0,0,20000,1,5
+23,22,2014,Washington,Redskins,Washington Redskins,2014Washington Redskins,0.273,0.188,0.636,0.688,100.8,1961041,572,0,64,0,0,8,334,478,0,1,0,0,4000,0,6
+24,23,2014,Houston,Texans,Houston Texans,2014Houston Texans,0.538,0.125,0.692,0.688,96.1,2205376,1014,0,46,0,0,1,276,428,0,1,0,2,3000,1,7
+25,24,2015,New York,Jets,New York Jets,2015New York Jets,1,0.25,0,0.688,94.7,1920922,713,1,70,0,0,6,283,401,0,0,0,0,10000,0,5
+26,25,2015,Jacksonville,Jaguars,Jacksonville Jaguars,2015Jacksonville Jaguars,0.333,0.188,0.333,0.688,95.1,625830,878,0,75,0,0,1,249,412,0,0,0,0,30000,1,5
+27,26,2015,New England,Patriots,New England Patriots,2015New England Patriots,1,0.75,0.6,0.688,99.4,7078550,937,0,59,0,0,1,468,313,1,1,1,0,600,0,25
+28,27,2015,New Orleans,Saints,New Orleans Saints,2015New Orleans Saints,0.333,0.438,0.5,0.688,99,4023071,821,0,61,0,0,8,401,424,0,1,0,0,2500,0,8
+29,28,2015,Denver,Broncos,Denver Broncos,2015Denver Broncos,1,0.75,0.375,0.688,96.6,4368268,1085,0,54,0,0,2,482,354,1,1,0,0,800,0,7
+30,29,2015,Tampa Bay,Buccaneers,Tampa Bay Buccaneers,2015Tampa Bay Buccaneers,0.5,0.125,0.5,0.688,95.2,944125,1010,0,41,0,0,8,277,410,0,0,0,0,20000,0,3
+31,30,2015,Houston,Texans,Houston Texans,2015Houston Texans,0.462,0.563,0.462,0.688,96.2,2205376,1014,0,46,0,0,1,372,307,0,1,0,13,30000,1,7
+32,31,2015,Tennessee,Titans,Tennessee Titans,2015Tennessee Titans,0.2,0.125,0.467,0.688,94.8,942098,289,0,32,0,0,1,254,438,0,0,0,0,30000,1,5
+33,32,2016,Detroit,Lions,Detroit Lions,2016Detroit Lions,0,0.438,0,0.5,98.4,1905486,287,1,76,0,0,8,358,400,0,0,0,0,4000,0,8
+34,33,2016,San Diego,Chargers,San Diego Chargers,2016San Diego Chargers,0.5,0.25,0,0.5,94.6,1577718,2052,0,82,0,0,6,320,398,0,0,0,0,5000,0,5
+35,34,2016,Chicago,Bears,Chicago Bears,2016Chicago Bears,0.25,0.375,0.25,0.5,97.6,4056931,182,0,60,0,0,8,335,397,0,0,0,0,4000,0,28
+36,35,2016,Kansas City,Chiefs,Kansas City Chiefs,2016Kansas City Chiefs,0.667,0.688,0.429,0.5,97.7,1561629,482,0,70,0,0,6,405,287,1,0,0,0,2000,0,7
+37,36,2016,Tennessee,Titans,Tennessee Titans,2016Tennessee Titans,0.5,0.188,0.444,0.5,96.9,942098,289,0,37,0,0,1,299,423,0,1,0,0,5000,1,5
+38,37,2016,Pittsburgh,Steelers,Pittsburgh Steelers,2016Pittsburgh Steelers,0.5,0.625,0.5,0.5,96,6497999,359,0,43,0,0,5,423,319,1,1,0,0,800,0,18
+39,38,2016,Houston,Texans,Houston Texans,2016Houston Texans,0.5,0.563,0.5,0.5,95.7,2205376,1014,0,34,1,0,1,339,313,1,0,0,37,4000,1,7
+40,39,2016,Jacksonville,Jaguars,Jacksonville Jaguars,2016Jacksonville Jaguars,0.2,0.313,0.467,0.5,96.1,625830,878,0,45,0,1,1,376,448,0,0,0,0,5000,1,5
+41,40,2017,Arizona,Cardinals,Arizona Cardinals,2017Arizona Cardinals,0,0.438,0,0.5,98.3,1484828,1699,1,88,0,0,11,418,362,0,0,0,0,2500,0,3
+42,41,2017,Cleveland,Browns,Cleveland Browns,2017Cleveland Browns,0,0.063,0,0.5,93.3,1256162,317,0,90,0,0,5,264,452,0,0,0,0,30000,0,12
+43,42,2017,San Francisco,49ers,San Francisco 49ers,2017San Francisco 49ers,0,0.125,0.25,0.5,99.7,4151690,2275,0,68,0,0,8,309,480,0,0,0,0,30000,0,8
+44,43,2017,Jacksonville,Jaguars,Jacksonville Jaguars,2017Jacksonville Jaguars,0.5,0.188,0.333,0.5,93.5,625830,878,0,79,0,0,1,318,400,0,0,0,0,8000,1,5
+45,44,2017,Pittsburgh,Steelers,Pittsburgh Steelers,2017Pittsburgh Steelers,0.75,0.688,0.333,0.5,96.6,6497999,359,0,41,1,0,1,399,327,1,3,8,0,1000,0,18
+46,45,2017,Tennessee,Titans,Tennessee Titans,2017Tennessee Titans,0.6,0.563,0.3,0.5,92.3,942098,289,0,50,0,0,1,381,378,0,0,0,0,4000,1,5
+47,46,2017,Denver,Broncos,Denver Broncos,2017Denver Broncos,0.308,0.563,0.231,0.5,94.2,4368268,1085,0,28,0,1,2,333,297,0,1,0,17,2000,0,7
+48,47,2017,Houston,Texans,Houston Texans,2017Houston Texans,0.267,0.563,0.2,0.5,98.1,2205376,1014,0,10,0,1,1,279,328,1,1,0,0,6000,1,7
+49,48,2018,Cincinnati,Bengals,Cincinnati Bengals,2018Cincinnati Bengals,0,0.438,0,0.25,96.7,1178447,112,1,61,1,0,4,290,349,0,0,0,0,10000,0,11
+50,49,2018,Houston,Texans,Houston Texans,2018Houston Texans,0,0.25,0.333,0.25,90,2205376,1014,0,79,0,0,1,338,436,0,1,0,0,2000,1,7
+51,50,2018,Buffalo,Bills,Buffalo Bills,2018Buffalo Bills,0.333,0.563,0.167,0.25,100.5,892337,500,0,50,0,0,6,302,359,1,0,0,0,10000,0,5
+52,51,2018,Jacksonville,Jaguars,Jacksonville Jaguars,2018Jacksonville Jaguars,0.375,0.625,0.375,0.25,95.4,625830,878,0,45,0,0,1,417,268,1,0,0,0,2000,1,5
+53,52,2018,Tennessee,Titans,Tennessee Titans,2018Tennessee Titans,0.556,0.563,0.444,0.25,95,942098,289,0,43,0,0,1,334,356,0,0,0,0,4000,1,5
+54,53,2018,Miami,Dolphins,Miami Dolphins,2018Miami Dolphins,0.5,0.375,0.5,0.25,98.5,2277308,1195,0,55,0,0,5,281,393,0,0,0,0,6000,0,7
+55,54,2018,Dallas,Cowboys,Dallas Cowboys,2018Dallas Cowboys,0.615,0.563,0.538,0.25,97,8646548,900,0,52,0,0,8,354,332,0,5,0,0,1800,0,18
+56,55,2018,New York,Giants,New York Giants,2018New York Giants,0.357,0.188,0.571,0.25,95.3,3903016,713,0,37,0,0,8,246,388,0,1,0,0,6000,0,7
+57,56,2019,Atlanta,Falcons,Atlanta Falcons,2019Atlanta Falcons,0.5,0.438,0.5,0.625,92.2,2021749,533,1,88,0,0,8,414,423,0,1,0,0,3000,0,5
+58,57,2019,Carolina,Panthers,Carolina Panthers,2019Carolina Panthers,0.357,0.438,0.429,0.625,90.6,2350018,575,0,52,0,1,8,376,382,0,1,0,0,4000,0,6
+59,58,2019,Denver,Broncos,Denver Broncos,2019Denver Broncos,0.286,0.375,0.667,0.625,93.9,4368268,1085,0,63,0,0,2,329,349,0,1,0,0,8000,0,7
+60,59,2019,Houston,Texans,Houston Texans,2019Houston Texans,0.667,0.688,0.6,0.625,93.4,2205376,1014,0,72,0,0,1,402,316,1,2,0,0,3000,1,7
+61,60,2019,Jacksonville,Jaguars,Jacksonville Jaguars,2019Jacksonville Jaguars,0.444,0.313,0.556,0.625,92.9,625830,878,0,45,0,0,1,245,316,0,0,0,17,3000,1,5
+62,61,2019,Miami,Dolphins,Miami Dolphins,2019Miami Dolphins,0.125,0.438,0.625,0.625,94.5,2277308,1195,0,57,0,0,1,319,433,0,0,0,0,30000,0,7
+63,62,2019,Oakland,Raiders,Oakland Raiders,2019Oakland Raiders,0.333,0.25,0.667,0.625,95.6,3399562,2266,0,82,0,0,6,290,467,0,0,0,0,10000,0,8
+64,63,2019,Tennessee,Titans,Tennessee Titans,2019Tennessee Titans,0.545,0.563,0.5,0.625,94.2,942098,289,0,36,1,0,1,310,303,0,0,0,0,6000,1,5
+65,64,2020,Tennessee,Titans,Tennessee Titans,2020Tennessee Titans,NA,0.563,NA,0.438,96.4,948227,289,0,NA,NA,NA,1,402,331,1,0,NA,NA,NA,1,5
+66,65,2020,Houston,Texans,Houston Texans,2020Houston Texans,NA,0.625,NA,0.438,93.6,2179874,1014,0,NA,NA,NA,1,378,385,1,2,NA,NA,NA,1,7
+67,66,2020,Jacksonville,Jaguars,Jacksonville Jaguars,2020Jacksonville Jaguars,NA,0.375,NA,0.438,92.6,634114,878,0,NA,NA,NA,1,300,397,0,0,NA,NA,NA,1,5
+68,67,2020,Green Bay,Packers,Green Bay Packers,2020Green Bay Packers,NA,0.813,NA,0.438,97.2,5300984,398,0,NA,NA,NA,8,376,313,1,1,NA,NA,NA,0,22
+69,68,2020,Minnesota,Vikings,Minnesota Vikings,2020Minnesota Vikings,NA,0.625,NA,0.438,95.2,2160261,594,0,NA,NA,NA,8,407,303,1,1,NA,NA,NA,0,6
+70,69,2020,Baltimore,Ravens,Baltimore Ravens,2020Baltimore Ravens,NA,0.875,NA,0.438,94,2291981,578,0,NA,NA,NA,6,531,282,1,1,NA,NA,NA,0,7
+71,70,2020,New York,Jets,New York Jets,2020New York Jets,NA,0.438,NA,0.438,87.5,1868393,713,0,NA,NA,NA,5,276,359,0,1,NA,NA,NA,0,5
+72,71,2020,Cincinnati,Bengals,Cincinnati Bengals,2020Cincinnati Bengals,NA,0.125,NA,0.438,95.4,1144921,112,0,NA,NA,NA,2,279,420,0,0,NA,NA,NA,0,11
